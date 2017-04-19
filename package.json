@@ -1,0 +1,24 @@
+{
+  "name": "berlinjs",
+  "description": "Berlinjs website",
+  "repository": "yoshuawuyts/berlinjs",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "deps": "dependency-check . && dependency-check . --extra --no-dev",
+    "start": "bankai start --open",
+    "build": "bankai build --optimize",
+    "test": "standard && npm run deps"
+  },
+  "dependencies": {
+    "choo": "^5.0.0-5",
+    "sheetify": "^6.0.1",
+    "tachyons": "^4.6.2"
+  },
+  "devDependencies": {
+    "bankai": "^5.4.0",
+    "dependency-check": "^2.8.0",
+    "standard": "^8.0.0",
+    "tape": "^4.6.3"
+  }
+}
