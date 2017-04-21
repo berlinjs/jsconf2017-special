@@ -40,7 +40,8 @@ var logo = css`
 
 var app = choo()
 app.route('/', mainView)
-app.mount('body')
+if (module.parent) module.exports = app
+else app.mount('body')
 
 function mainView () {
   return html`
