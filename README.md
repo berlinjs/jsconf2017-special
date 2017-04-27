@@ -21,6 +21,7 @@ All speaker data is in `./speakers.json`. Time and date are at the top of
 $ npm install     # install dependencies
 $ npm start       # start the dev server & open the application
 $ npm run build   # output to static files in dist/
+$ npm run publish # builds page and publishes it to gh-pages
 ```
 
 ## License
