@@ -8,6 +8,7 @@
     "deps": "dependency-check . && dependency-check . --extra --no-dev",
     "start": "bankai start",
     "build": "bankai build && ./build.js",
+    "publish": "npm run build && git add dist && git commit -m 'Publish website' && git subtree push --prefix dist origin gh-pages",
     "inspect": "bankai inspect",
     "test": "standard && npm run deps"
   },
