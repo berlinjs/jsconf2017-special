@@ -4,9 +4,9 @@ var choo = require('choo')
 
 var speakerData = require('./speakers.json')
 var date = {
-  dayOfWeek: 'Tuesday',
+  dayOfWeek: 'Thursday',
   time: '7pm',
-  date: 'March 16th'
+  date: 'May 4th'
 }
 
 css('tachyons')
