@@ -62,9 +62,10 @@ function nav () {
     <nav class="pa4 flex flex-column">
       <h1 class="ttu mv0 pl2">
         <span class=${logo}>
-          berlinjs
+          berlin.js
         </span>
       </h1>
+      <h1>JSConf EU 2017 special</h1>
       <h2 class="f2 f1-ns b ttu mt0 pt5">
         ${date.dayOfWeek} ${date.date}
         <br class="dn db-l"/>
