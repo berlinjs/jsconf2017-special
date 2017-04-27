@@ -48,6 +48,7 @@ function mainView () {
     <body class="sans-serif bg-js-yellow">
       ${nav()}
       <main class="ph4">
+        ${intro()}
         ${speakers()}
         ${codeOfConduct()}
         ${sponsor()}
@@ -105,6 +106,27 @@ function speakers () {
       </article>
     `
   }
+}
+
+function intro () {
+  return html`
+    <section class="mt4 mt5-ns">
+      <div class="mw9 center cf">
+        <section class="fn fl-l w-100 w-40-l pr4-l">
+          <h2 class="f3 f1-ns lh-title fw9 mb3 mt0 pt3 bw2">
+            Wait, what's this?
+          </h2>
+        </section>
+        <section class="lh-copy f5 f4-ns fl mt0-l measure">
+          Welcome to our <a href="http://2017.jsconf.eu">JSConf EU</a> special, a
+          special occasion for the Berlin JavaScript community to mix and mingle
+          with people coming to JSConf EU 2017 from all over the world.
+
+          We will have talks and plenty of space to meet new people. See you there!
+        </section>
+      </div>
+    </section>
+  `
 }
 
 function codeOfConduct () {
