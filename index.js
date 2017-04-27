@@ -65,15 +65,15 @@ function nav () {
           berlin.js
         </span>
       </h1>
-      <h1>JSConf EU 2017 special</h1>
-      <h2 class="f2 f1-ns b ttu mt0 pt5">
+      <h2>JSConf EU 2017 special</h2>
+      <h3 class="f2 f1-ns b ttu mt0 pt5">
         ${date.dayOfWeek} ${date.date}
         <br class="dn db-l"/>
         ${date.time} at
         <a href="https://goo.gl/maps/u6k4zWKcw5y" class="black link underline">
           co.up
         </a>
-      </h2>
+      </h3>
     </nav>
   `
 }
