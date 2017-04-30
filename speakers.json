@@ -1,8 +1,8 @@
 [
   {
     "name": "Andrey Sitnik",
-    "uri": "https://twitter.com/andreysitnik",
-    "title": "Logux, a new way of client-server conversation Andrey Sitnik",
+    "uri": "https:\/\/twitter.com\/andreysitnik",
+    "title": "Logux, a new way of client-server conversation",
     "description": "Andrey Sitnik, author of PostCSS and Autoprefixer will present his new open source project — Logux. A mix of ideas beside Redux, CRDT and Relay to replace AJAX requests and develop websites with live updates, Offline-first and Optimistics UI much easier"
   },
   {
