@@ -1,9 +1,9 @@
 [
   {
-    "name": "You?",
-    "uri": "https:\/\/twitter.com\/berlinjs",
-    "title": "Your talk title",
-    "description": "This is your spot to take! We want to hear your story. Get in touch with us and we're happy to host you!"
+    "name": "Andrey Sitnik",
+    "uri": "https://twitter.com/andreysitnik",
+    "title": "Logux, a new way of client-server conversation Andrey Sitnik",
+    "description": "Andrey Sitnik, author of PostCSS and Autoprefixer will present his new open source project — Logux. A mix of ideas beside Redux, CRDT and Relay to replace AJAX requests and develop websites with live updates, Offline-first and Optimistics UI much easier"
   },
   {
     "name": "You?",
