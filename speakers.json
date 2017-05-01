@@ -6,10 +6,10 @@
     "description": "You've probably heard of the magic of a Service Worker when a user is offline, but what can we do for them when they get back online? We can take advantage of the Service Worker's life outside of the page and start to perform actions in the background.\n\nIn this talk we'll investigate the Background Sync API and the APIs that it depends upon, we'll look at what you might use it for and see it in action. Once that is behind us we can take a peek into the future and even more background tasks with a look at the Periodic Sync API."
   },
   {
-    "name": "You?",
-    "uri": "https:\/\/twitter.com\/berlinjs",
-    "title": "Your talk title",
-    "description": "This is your spot to take! We want to hear your story. Get in touch with us and we're happy to host you!"
+    "name": "Ashley Williams",
+    "uri": "https:\/\/twitter.com\/ag_dubs",
+    "title": "You Don't Know npm",
+    "description": "Everybody knows `npm install`. In fact, around 100,000,000 people run it everyday. But what many people don't know is that there is much more to npm than simply installing! Ashley, an ops and services engineer, will take you on a tour of npm's greatest features, old and new, and demonstrates how they can be integrated into your workflow to make you better, happier, and more productive. Along the way she'll share some of the amazing stats about npm's usage, and show off some of the lesser known registry services that npm offers to help you build your own tooling for the npm ecosystem."
   },{
     "name": "You?",
     "uri": "https:\/\/twitter.com\/berlinjs",
