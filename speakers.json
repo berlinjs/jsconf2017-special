@@ -10,10 +10,17 @@
     "uri": "https:\/\/twitter.com\/ag_dubs",
     "title": "You Don't Know npm",
     "description": "Everybody knows `npm install`. In fact, around 100,000,000 people run it everyday. But what many people don't know is that there is much more to npm than simply installing! Ashley, an ops and services engineer, will take you on a tour of npm's greatest features, old and new, and demonstrates how they can be integrated into your workflow to make you better, happier, and more productive. Along the way she'll share some of the amazing stats about npm's usage, and show off some of the lesser known registry services that npm offers to help you build your own tooling for the npm ecosystem."
-  },{
+  },
+  {
     "name": "Shubheksha Jalan",
     "uri": "https:\/\/twitter.com\/ScribblingOn",
     "title": "Open Web, Open Source, Open Communities",
     "description": "The tremendous amount of activity in the JS ecosystem is a direct consequence of web being an “open” platform -- it is not owned by any particular corporation -- it’s at the disposal of the community to be advanced in the right direction. To do this and sustain its growth, we need to make sure our open source communities welcome everyone.  I want to talk about the need for safe and welcoming open source communities in the context of “a web for everyone” so that everyone can play a part in propelling it forward. This talk will be about why we should and how we can lower barriers of entry to open source."
+  },
+  {
+    "name": "Andrey Sitnik",
+    "uri": "https:\/\/twitter.com\/andreysitnik",
+    "title": "Logux, a new way of client-server conversation",
+    "description": "Andrey Sitnik, author of PostCSS and Autoprefixer will present his new open source project — Logux. A mix of ideas beside Redux, CRDT and Relay to replace AJAX requests and develop websites with live updates, Offline-first and Optimistics UI much easier"
   }
 ]
